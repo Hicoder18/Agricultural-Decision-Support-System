@@ -1,6 +1,6 @@
 # Agricultural-Decision-Support-System
 ## Description
-Agricultural Information Technology Course Practices:Rice Disease Agricultural Decision Support System
+The practices of Agricultural Information Technology Course:Rice Disease Agricultural Decision Support System
 
 ## Programming Language
 Visual Basic
